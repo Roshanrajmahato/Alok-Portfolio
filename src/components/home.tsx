@@ -141,7 +141,7 @@ const HomePage = () => {
                 <div className="absolute -inset-4 rounded-full bg-gradient-to-r from-primary/20 to-secondary/20 blur-xl"></div>
                 <Avatar className="w-64 h-64 border-4 border-background">
                   <AvatarImage
-                    src="alok.jpg"
+                    src="https://images4.imagebam.com/55/11/f8/ME12W4XU_o.jpg"
                     alt="Profile"
                   />
                   <AvatarFallback>AJ</AvatarFallback>
