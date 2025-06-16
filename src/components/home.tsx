@@ -112,7 +112,7 @@ const HomePage = () => {
               className="w-full md:w-1/2 order-2 md:order-1"
             >
               <h1 className="text-4xl md:text-6xl font-bold mb-4">
-                Hi, I'm <span className="text-primary">Alex Johnson</span>
+                Hi, I'm <span className="text-primary">Alok Saw</span>
               </h1>
               <h2 className="text-2xl md:text-3xl text-muted-foreground mb-6">
                 Full Stack Developer
@@ -141,7 +141,7 @@ const HomePage = () => {
                 <div className="absolute -inset-4 rounded-full bg-gradient-to-r from-primary/20 to-secondary/20 blur-xl"></div>
                 <Avatar className="w-64 h-64 border-4 border-background">
                   <AvatarImage
-                    src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80"
+                    src="alok.jpg"
                     alt="Profile"
                   />
                   <AvatarFallback>AJ</AvatarFallback>
